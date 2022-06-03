@@ -1,0 +1,263 @@
+
+> # Congruencia resultados e hipótesis y su publicación
+> 
+> # Distribución de frecuencias
+> 
+> table(dat$nh1)
+
+  0   1 
+464 790 
+
+> table(dat$nh2)
+
+   0    1 
+1027  227 
+
+> table(dat$nh3)
+
+   0    1 
+1245    9 
+
+> table(dat$nh4)
+
+   0    1 
+1073  181 
+
+> table(dat$nh5)
+
+   0    1 
+1124  130 
+
+> # Porcentajes de respuesta afirmativa
+> 
+> round(mean(dat$nh1) * 100, 2)
+[1] 63
+
+> round(mean(dat$nh2) * 100, 2)
+[1] 18.1
+
+> round(mean(dat$nh3) * 100, 2)
+[1] 0.72
+
+> round(mean(dat$nh4) * 100, 2)
+[1] 14.43
+
+> round(mean(dat$nh5) * 100, 2)
+[1] 10.37
+
+> # Alternativas potencialmente relacionadas con pci en función del área. (Porcentajes)
+> 
+> 
+> round(tapply(dat$nh1, INDEX = dat$area.r, mean)*100, 2 .... [TRUNCATED] 
+                    Arte y humanidades          Ciencias de la vida y médicas 
+                                 54.29                                  75.28 
+       Ciencias naturales e ingeniería Ciencias sociales y del comportamiento 
+                                 52.73                                  66.67 
+
+> round(tapply(dat$nh2, INDEX = dat$area.r, mean)*100, 2)
+                    Arte y humanidades          Ciencias de la vida y médicas 
+                                 22.86                                  11.14 
+       Ciencias naturales e ingeniería Ciencias sociales y del comportamiento 
+                                 22.93                                  18.28 
+
+> round(tapply(dat$nh3, INDEX = dat$area.r, mean)*100, 2)
+                    Arte y humanidades          Ciencias de la vida y médicas 
+                                  0.00                                   0.22 
+       Ciencias naturales e ingeniería Ciencias sociales y del comportamiento 
+                                  1.23                                   0.54 
+
+> round(tapply(dat$nh4, INDEX = dat$area.r, mean)*100, 2)
+                    Arte y humanidades          Ciencias de la vida y médicas 
+                                  5.71                                  12.92 
+       Ciencias naturales e ingeniería Ciencias sociales y del comportamiento 
+                                 17.64                                  10.22 
+
+> round(tapply(dat$nh5, INDEX = dat$area.r, mean)*100, 2)
+                    Arte y humanidades          Ciencias de la vida y médicas 
+                                 22.86                                   6.46 
+       Ciencias naturales e ingeniería Ciencias sociales y del comportamiento 
+                                 13.23                                   9.14 
+
+> # Alternativas potencialmente relacionadas con pci en función del perfil. (Porcentajes)
+> 
+> round(tapply(dat$nh1, INDEX = dat$perfil, mean)*100, 2)
+        Estudiante de doctorado       Personal de investigación                Personal docente 
+                          69.77                           61.28                           54.24 
+Personal docente e investigador 
+                          63.63 
+
+> round(tapply(dat$nh2, INDEX = dat$perfil, mean)*100, 2)
+        Estudiante de doctorado       Personal de investigación                Personal docente 
+                           4.65                           17.29                           28.81 
+Personal docente e investigador 
+                          18.48 
+
+> round(tapply(dat$nh3, INDEX = dat$perfil, mean)*100, 2)
+        Estudiante de doctorado       Personal de investigación                Personal docente 
+                           0.00                            1.50                            1.69 
+Personal docente e investigador 
+                           0.47 
+
+> round(tapply(dat$nh4, INDEX = dat$perfil, mean)*100, 2)
+        Estudiante de doctorado       Personal de investigación                Personal docente 
+                          25.58                           16.17                           15.25 
+Personal docente e investigador 
+                          13.57 
+
+> round(tapply(dat$nh5, INDEX = dat$perfil, mean)*100, 2)
+        Estudiante de doctorado       Personal de investigación                Personal docente 
+                           9.30                           11.65                            5.08 
+Personal docente e investigador 
+                          10.06 
+
+> # Necesidad de publicar en caso de que no se satisfagan hipótesis iniciales. 
+> 
+> # Distribución de frecuencias
+> 
+> table(dat$pubnohh)
+
+               No No lo tengo claro                Sí 
+              123               144               987 
+
+> # Porcentajes
+> 
+> prop.table(table(dat$pubnohh)) *100
+
+               No No lo tengo claro                Sí 
+         9.808612         11.483254         78.708134 
+
+> # En función del área
+> 
+> tapply(dat$pubnohh, INDEX = dat$area.r, table)
+$`Arte y humanidades`
+
+               No No lo tengo claro                Sí 
+                5                 8                22 
+
+$`Ciencias de la vida y médicas`
+
+               No No lo tengo claro                Sí 
+               23                27               399 
+
+$`Ciencias naturales e ingeniería`
+
+               No No lo tengo claro                Sí 
+               75                86               406 
+
+$`Ciencias sociales y del comportamiento`
+
+               No No lo tengo claro                Sí 
+               18                21               147 
+
+
+> # En función del perfil
+> 
+> tapply(dat$pubnohh, INDEX = dat$perfil, table)
+$`Estudiante de doctorado`
+
+               No No lo tengo claro                Sí 
+                1                 5                37 
+
+$`Personal de investigación`
+
+               No No lo tengo claro                Sí 
+               16                34               216 
+
+$`Personal docente`
+
+               No No lo tengo claro                Sí 
+               10                 6                43 
+
+$`Personal docente e investigador`
+
+               No No lo tengo claro                Sí 
+               95                97               663 
+
+
+> # Motivaciones en general
+> 
+> # Distribución de frecuencias
+> 
+> table(dat$m1)
+
+   0    1 
+1189   65 
+
+> table(dat$m2)
+
+   0    1 
+1033  221 
+
+> table(dat$m3)
+
+  0   1 
+841 413 
+
+> table(dat$m4)
+
+  0   1 
+655 599 
+
+> table(dat$m5)
+
+  0   1 
+966 288 
+
+> table(dat$m6)
+
+  0   1 
+313 941 
+
+> table(dat$m7)
+
+  0   1 
+409 845 
+
+> table(dat$m8)
+
+  0   1 
+751 503 
+
+> table(dat$m9)
+
+  0   1 
+720 534 
+
+> table(dat$m10)
+
+  0   1 
+432 822 
+
+> # Porcentajes de respuesta afirmativa
+> 
+> round(mean(dat$m1)*100, 2)
+[1] 5.18
+
+> round(mean(dat$m2)*100, 2)
+[1] 17.62
+
+> round(mean(dat$m3)*100, 2)
+[1] 32.93
+
+> round(mean(dat$m4)*100, 2)
+[1] 47.77
+
+> round(mean(dat$m5)*100, 2)
+[1] 22.97
+
+> round(mean(dat$m6)*100, 2)
+[1] 75.04
+
+> round(mean(dat$m7)*100, 2)
+[1] 67.38
+
+> round(mean(dat$m8)*100, 2)
+[1] 40.11
+
+> round(mean(dat$m9)*100, 2)
+[1] 42.58
+
+> round(mean(dat$m10)*100, 2)
+[1] 65.55
+
+> sink()

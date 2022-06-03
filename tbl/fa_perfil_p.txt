@@ -1,0 +1,216 @@
+$pp1
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          33   0  10   0
+  Personal de investigación       157   5 104   0
+  Personal docente                 40   1  18   0
+  Personal docente e investigador 522  12 317   4
+
+$pp2
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          25   4  13   1
+  Personal de investigación       144  20  60  42
+  Personal docente                 34   3  14   8
+  Personal docente e investigador 459  67 229 100
+
+$pp3
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          36   0   6   1
+  Personal de investigación       218   1  46   1
+  Personal docente                 45   0  14   0
+  Personal docente e investigador 677   4 162  12
+
+$pp4
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          22   5  10   6
+  Personal de investigación       142  33  66  25
+  Personal docente                 37   5  13   4
+  Personal docente e investigador 445 104 213  93
+
+$pp5
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          28   2  11   2
+  Personal de investigación       166  18  68  14
+  Personal docente                 43   1  12   3
+  Personal docente e investigador 557  34 237  27
+
+$pp6
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          29   3   8   3
+  Personal de investigación       179  12  49  26
+  Personal docente                 38   2  15   4
+  Personal docente e investigador 532  41 218  64
+
+$pp7
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          27   4  12   0
+  Personal de investigación       146  21  86  13
+  Personal docente                 39   5  14   1
+  Personal docente e investigador 486  46 308  15
+
+$pp8
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          37   0   6   0
+  Personal de investigación       201   3  59   3
+  Personal docente                 46   0  13   0
+  Personal docente e investigador 663   6 181   5
+
+$pp9
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          30   3   6   4
+  Personal de investigación       168  15  55  28
+  Personal docente                 45   1  10   3
+  Personal docente e investigador 545  61 158  91
+
+$pp10
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          30   0  10   3
+  Personal de investigación       174  13  64  15
+  Personal docente                 42   2  14   1
+  Personal docente e investigador 580  34 205  36
+
+$pp11
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          20   4  12   7
+  Personal de investigación       127  26  78  35
+  Personal docente                 35   3  20   1
+  Personal docente e investigador 441  89 237  88
+
+$pp12
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          32   1  10   0
+  Personal de investigación       166   8  88   4
+  Personal docente                 43   0  16   0
+  Personal docente e investigador 532  16 300   7
+
+$pp13
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          27   1  15   0
+  Personal de investigación       157  12  87  10
+  Personal docente                 40   1  16   2
+  Personal docente e investigador 496  41 298  20
+
+$pp14
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          30   2  11   0
+  Personal de investigación       189   8  67   2
+  Personal docente                 40   3  16   0
+  Personal docente e investigador 627  15 212   1
+
+$pp15
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          17   9  11   6
+  Personal de investigación       124  40  84  18
+  Personal docente                 31   9  18   1
+  Personal docente e investigador 383 125 301  46
+
+$pp16
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          23   0  19   1
+  Personal de investigación       128   6 132   0
+  Personal docente                 37   0  22   0
+  Personal docente e investigador 421  12 421   1
+
+$pp17
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          35   0   7   1
+  Personal de investigación       210   1  54   1
+  Personal docente                 44   0  15   0
+  Personal docente e investigador 673   2 180   0
+
+$pp18
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          35   1   6   1
+  Personal de investigación       197  11  53   5
+  Personal docente                 42   0  17   0
+  Personal docente e investigador 602  25 217  11
+
+$pp19
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          26   4  13   0
+  Personal de investigación       130  48  80   8
+  Personal docente                 32   2  25   0
+  Personal docente e investigador 433  85 316  21
+
+$pp21
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          24   2  17   0
+  Personal de investigación       135  10 119   2
+  Personal docente                 37   3  18   1
+  Personal docente e investigador 464  45 338   8
+
+$pp22
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          39   0   4   0
+  Personal de investigación       217   0  47   2
+  Personal docente                 45   0  14   0
+  Personal docente e investigador 684   3 164   4
+
+$pp23
+                                 x
+                                   BP  CD  HD
+  Estudiante de doctorado          34   0   9
+  Personal de investigación       202   0  64
+  Personal docente                 41   0  18
+  Personal docente e investigador 612   2 241
+
+$pp24
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          35   0   8   0
+  Personal de investigación       177   4  70  15
+  Personal docente                 34   1  22   2
+  Personal docente e investigador 539  28 267  21
+
+$pp25
+                                 x
+                                   BP  HD  PC
+  Estudiante de doctorado          41   2   0
+  Personal de investigación       225  41   0
+  Personal docente                 48  11   0
+  Personal docente e investigador 710 144   1
+
+$pp26
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          22   3  16   2
+  Personal de investigación       173  17  71   5
+  Personal docente                 34   1  23   1
+  Personal docente e investigador 497  43 290  25
+
+$pp27
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          30   1  11   1
+  Personal de investigación       190   6  62   8
+  Personal docente                 43   1  14   1
+  Personal docente e investigador 620  17 213   5
+
+$pp28
+                                 x
+                                   BP  CD  HD  PC
+  Estudiante de doctorado          36   0   7   0
+  Personal de investigación       206   2  53   5
+  Personal docente                 46   1  12   0
+  Personal docente e investigador 639   9 198   9
+

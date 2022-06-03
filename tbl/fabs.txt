@@ -1,0 +1,135 @@
+$pp1
+
+ BP  CD  HD  PC 
+768  19 463   4 
+
+$pp2
+
+ BP  CD  HD  PC 
+675  96 327 156 
+
+$pp3
+
+ BP  CD  HD  PC 
+994   6 239  15 
+
+$pp4
+
+ BP  CD  HD  PC 
+661 151 313 129 
+
+$pp5
+
+ BP  CD  HD  PC 
+811  55 341  47 
+
+$pp6
+
+ BP  CD  HD  PC 
+791  58 304 101 
+
+$pp7
+
+ BP  CD  HD  PC 
+714  76 434  30 
+
+$pp8
+
+ BP  CD  HD  PC 
+967  10 268   9 
+
+$pp9
+
+ BP  CD  HD  PC 
+805  80 238 131 
+
+$pp10
+
+ BP  CD  HD  PC 
+841  50 305  58 
+
+$pp11
+
+ BP  CD  HD  PC 
+636 126 357 135 
+
+$pp12
+
+ BP  CD  HD  PC 
+790  25 428  11 
+
+$pp13
+
+ BP  CD  HD  PC 
+737  56 429  32 
+
+$pp14
+
+ BP  CD  HD  PC 
+903  29 318   4 
+
+$pp15
+
+ BP  CD  HD  PC 
+569 184 428  73 
+
+$pp16
+
+ BP  CD  HD  PC 
+625  18 609   2 
+
+$pp17
+
+ BP  CD  HD  PC 
+984   3 265   2 
+
+$pp18
+
+ BP  CD  HD  PC 
+892  38 307  17 
+
+$pp19
+
+ BP  CD  HD  PC 
+642 141 442  29 
+
+$pp21
+
+ BP  CD  HD  PC 
+673  61 509  11 
+
+$pp22
+
+  BP   CD   HD   PC 
+1007    3  238    6 
+
+$pp23
+
+ BP  CD  HD 
+909   2 343 
+
+$pp24
+
+ BP  CD  HD  PC 
+805  34 377  38 
+
+$pp25
+
+  BP   HD   PC 
+1046  207    1 
+
+$pp26
+
+ BP  CD  HD  PC 
+741  67 412  34 
+
+$pp27
+
+ BP  CD  HD  PC 
+901  25 313  15 
+
+$pp28
+
+ BP  CD  HD  PC 
+949  13 278  14 
+

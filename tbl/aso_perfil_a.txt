@@ -1,0 +1,243 @@
+$pp1
+                    X^2 df P(> X^2)
+Likelihood Ratio 6.7392  9  0.66425
+Pearson          5.5686  9  0.78220
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.067 
+Cramer's V        : 0.039 
+
+$pp2
+                    X^2 df P(> X^2)
+Likelihood Ratio 10.551  9  0.30773
+Pearson          10.375  9  0.32099
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.091 
+Cramer's V        : 0.053 
+
+$pp3
+                    X^2 df P(> X^2)
+Likelihood Ratio 5.8386  9  0.75595
+Pearson          5.3504  9  0.80276
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.066 
+Cramer's V        : 0.038 
+
+$pp4
+                    X^2 df  P(> X^2)
+Likelihood Ratio 39.085  9 1.112e-05
+Pearson          40.701  9 5.669e-06
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.178 
+Cramer's V        : 0.105 
+
+$pp5
+                    X^2 df P(> X^2)
+Likelihood Ratio 5.2828  9  0.80900
+Pearson          4.8824  9  0.84443
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.063 
+Cramer's V        : 0.036 
+
+$pp6
+                    X^2 df P(> X^2)
+Likelihood Ratio 15.357  9 0.081582
+Pearson          15.395  9 0.080644
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.111 
+Cramer's V        : 0.064 
+
+$pp7
+                    X^2 df P(> X^2)
+Likelihood Ratio 8.2675  9  0.50743
+Pearson          7.8043  9  0.55398
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.079 
+Cramer's V        : 0.046 
+
+$pp8
+                    X^2 df P(> X^2)
+Likelihood Ratio 3.9348  9  0.91565
+Pearson          3.5809  9  0.93678
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.054 
+Cramer's V        : 0.031 
+
+$pp9
+                    X^2 df P(> X^2)
+Likelihood Ratio 9.1936  9  0.41960
+Pearson          6.8877  9  0.64881
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.074 
+Cramer's V        : 0.043 
+
+$pp10
+                    X^2 df P(> X^2)
+Likelihood Ratio 8.9624  9  0.44075
+Pearson          7.5265  9  0.58248
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.078 
+Cramer's V        : 0.045 
+
+$pp11
+                    X^2 df  P(> X^2)
+Likelihood Ratio 23.933  9 0.0044077
+Pearson          18.621  9 0.0286196
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.122 
+Cramer's V        : 0.071 
+
+$pp12
+                    X^2 df P(> X^2)
+Likelihood Ratio 19.755  9 0.019485
+Pearson          19.060  9 0.024687
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.123 
+Cramer's V        : 0.072 
+
+$pp13
+                    X^2 df P(> X^2)
+Likelihood Ratio 11.372  9  0.25109
+Pearson          10.725  9  0.29500
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.093 
+Cramer's V        : 0.054 
+
+$pp14
+                    X^2 df P(> X^2)
+Likelihood Ratio 18.509  9 0.029709
+Pearson          21.555  9 0.010401
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.131 
+Cramer's V        : 0.076 
+
+$pp15
+                    X^2 df P(> X^2)
+Likelihood Ratio 11.874  9  0.22053
+Pearson          11.483  9  0.24405
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.096 
+Cramer's V        : 0.056 
+
+$pp16
+                    X^2 df  P(> X^2)
+Likelihood Ratio 26.956  9 0.0014225
+Pearson          25.884  9 0.0021339
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.143 
+Cramer's V        : 0.084 
+
+$pp17
+                    X^2 df P(> X^2)
+Likelihood Ratio 8.4589  9  0.48864
+Pearson          6.9406  9  0.64331
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.075 
+Cramer's V        : 0.043 
+
+$pp18
+                    X^2 df P(> X^2)
+Likelihood Ratio 14.241  9  0.11401
+Pearson          12.709  9  0.17621
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.101 
+Cramer's V        : 0.059 
+
+$pp19
+                    X^2 df  P(> X^2)
+Likelihood Ratio 24.961  9 0.0030147
+Pearson          23.875  9 0.0045040
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.138 
+Cramer's V        : 0.08 
+
+$pp21
+                    X^2 df  P(> X^2)
+Likelihood Ratio 21.821  9 0.0094638
+Pearson          17.495  9 0.0415062
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.118 
+Cramer's V        : 0.069 
+
+$pp22
+                    X^2 df P(> X^2)
+Likelihood Ratio 15.414  9 0.080163
+Pearson          18.864  9 0.026374
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.123 
+Cramer's V        : 0.071 
+
+$pp23
+                    X^2 df  P(> X^2)
+Likelihood Ratio 17.510  6 0.0075800
+Pearson          21.083  6 0.0017726
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.129 
+Cramer's V        : 0.092 
+
+$pp24
+                    X^2 df  P(> X^2)
+Likelihood Ratio 22.681  9 0.0069531
+Pearson          21.817  9 0.0094789
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.132 
+Cramer's V        : 0.077 
+
+$pp25
+                    X^2 df P(> X^2)
+Likelihood Ratio 4.3745  6  0.62613
+Pearson          4.1864  6  0.65146
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.058 
+Cramer's V        : 0.041 
+
+$pp26
+                    X^2 df P(> X^2)
+Likelihood Ratio 12.239  9  0.20016
+Pearson          13.485  9  0.14188
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.104 
+Cramer's V        : 0.06 
+
+$pp27
+                    X^2 df P(> X^2)
+Likelihood Ratio 5.6407  9  0.77527
+Pearson          4.9722  9  0.83673
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.063 
+Cramer's V        : 0.037 
+
+$pp28
+                    X^2 df P(> X^2)
+Likelihood Ratio 10.913  9  0.28169
+Pearson          10.796  9  0.28996
+
+Phi-Coefficient   : NA 
+Contingency Coeff.: 0.093 
+Cramer's V        : 0.054 
+

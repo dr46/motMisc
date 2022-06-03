@@ -1,0 +1,216 @@
+$pp1
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      22   0  13   0
+  Ciencias de la vida y médicas          267   7 174   1
+  Ciencias naturales e ingeniería        346   8 210   3
+  Ciencias sociales y del comportamiento 125   3  58   0
+
+$pp2
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      22   2   9   2
+  Ciencias de la vida y médicas          257  33 106  53
+  Ciencias naturales e ingeniería        303  41 145  78
+  Ciencias sociales y del comportamiento  86  18  59  23
+
+$pp3
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      27   0   8   0
+  Ciencias de la vida y médicas          363   2  81   3
+  Ciencias naturales e ingeniería        452   3 104   8
+  Ciencias sociales y del comportamiento 140   1  41   4
+
+$pp4
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      16   4  14   1
+  Ciencias de la vida y médicas          262  40 115  32
+  Ciencias naturales e ingeniería        301  68 137  61
+  Ciencias sociales y del comportamiento  75  36  42  33
+
+$pp5
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      24   1   9   1
+  Ciencias de la vida y médicas          297  19 116  17
+  Ciencias naturales e ingeniería        361  29 154  23
+  Ciencias sociales y del comportamiento 119   4  57   6
+
+$pp6
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      20   2  12   1
+  Ciencias de la vida y médicas          296  18  92  43
+  Ciencias naturales e ingeniería        363  22 143  39
+  Ciencias sociales y del comportamiento 103  13  53  17
+
+$pp7
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      18   2  15   0
+  Ciencias de la vida y médicas          266  21 149  13
+  Ciencias naturales e ingeniería        322  34 198  13
+  Ciencias sociales y del comportamiento  99  17  66   4
+
+$pp8
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      24   0  11   0
+  Ciencias de la vida y médicas          352   4  90   3
+  Ciencias naturales e ingeniería        436   5 121   5
+  Ciencias sociales y del comportamiento 143   1  41   1
+
+$pp9
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      25   0   7   3
+  Ciencias de la vida y médicas          297  30  75  47
+  Ciencias naturales e ingeniería        358  36 111  62
+  Ciencias sociales y del comportamiento 116  14  41  15
+
+$pp10
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      27   1   7   0
+  Ciencias de la vida y médicas          294  20 110  25
+  Ciencias naturales e ingeniería        393  20 131  23
+  Ciencias sociales y del comportamiento 117   7  54   8
+
+$pp11
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      22   1  12   0
+  Ciencias de la vida y médicas          227  47 116  59
+  Ciencias naturales e ingeniería        283  66 162  56
+  Ciencias sociales y del comportamiento  98   9  60  19
+
+$pp12
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      20   1  14   0
+  Ciencias de la vida y médicas          268  12 160   9
+  Ciencias naturales e ingeniería        378   5 183   1
+  Ciencias sociales y del comportamiento 114   5  66   1
+
+$pp13
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      22   2  11   0
+  Ciencias de la vida y médicas          275  21 143  10
+  Ciencias naturales e ingeniería        339  20 194  14
+  Ciencias sociales y del comportamiento  93  12  74   7
+
+$pp14
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      19   3  13   0
+  Ciencias de la vida y médicas          338   6 103   2
+  Ciencias naturales e ingeniería        417  11 138   1
+  Ciencias sociales y del comportamiento 120   8  57   1
+
+$pp15
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      21   2  11   1
+  Ciencias de la vida y médicas          208  61 146  34
+  Ciencias naturales e ingeniería        259  87 193  28
+  Ciencias sociales y del comportamiento  76  33  69   8
+
+$pp16
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      19   0  16   0
+  Ciencias de la vida y médicas          254   3 192   0
+  Ciencias naturales e ingeniería        276  12 278   1
+  Ciencias sociales y del comportamiento  69   3 113   1
+
+$pp17
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      27   0   8   0
+  Ciencias de la vida y médicas          360   0  87   2
+  Ciencias naturales e ingeniería        441   2 124   0
+  Ciencias sociales y del comportamiento 143   1  42   0
+
+$pp18
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      27   0   8   0
+  Ciencias de la vida y médicas          317  17 106   9
+  Ciencias naturales e ingeniería        413  11 139   4
+  Ciencias sociales y del comportamiento 122   9  51   4
+
+$pp19
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      17   1  16   1
+  Ciencias de la vida y médicas          254  56 130   9
+  Ciencias naturales e ingeniería        257  65 230  15
+  Ciencias sociales y del comportamiento 107  16  60   3
+
+$pp21
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      21   2  12   0
+  Ciencias de la vida y médicas          251  26 164   8
+  Ciencias naturales e ingeniería        295  25 247   0
+  Ciencias sociales y del comportamiento  96   6  81   3
+
+$pp22
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      28   0   6   1
+  Ciencias de la vida y médicas          377   0  71   1
+  Ciencias naturales e ingeniería        453   1 110   3
+  Ciencias sociales y del comportamiento 137   2  46   1
+
+$pp23
+                                        x
+                                          BP  CD  HD
+  Arte y humanidades                      23   0  12
+  Ciencias de la vida y médicas          349   0 100
+  Ciencias naturales e ingeniería        399   0 168
+  Ciencias sociales y del comportamiento 126   2  58
+
+$pp24
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      23   1  11   0
+  Ciencias de la vida y médicas          289  12 127  21
+  Ciencias naturales e ingeniería        374   9 169  15
+  Ciencias sociales y del comportamiento 110  11  64   1
+
+$pp25
+                                        x
+                                          BP  HD  PC
+  Arte y humanidades                      28   7   0
+  Ciencias de la vida y médicas          375  73   1
+  Ciencias naturales e ingeniería        480  87   0
+  Ciencias sociales y del comportamiento 149  37   0
+
+$pp26
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      18   3  12   2
+  Ciencias de la vida y médicas          272  23 145   9
+  Ciencias naturales e ingeniería        349  28 179  11
+  Ciencias sociales y del comportamiento  94  13  70   9
+
+$pp27
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      26   0   9   0
+  Ciencias de la vida y médicas          327   7 108   7
+  Ciencias naturales e ingeniería        410  10 142   5
+  Ciencias sociales y del comportamiento 128   6  50   2
+
+$pp28
+                                        x
+                                          BP  CD  HD  PC
+  Arte y humanidades                      24   0  10   1
+  Ciencias de la vida y médicas          361   4  81   3
+  Ciencias naturales e ingeniería        414   6 140   7
+  Ciencias sociales y del comportamiento 139   3  42   2
+
