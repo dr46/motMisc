@@ -3,24 +3,19 @@ title: 'motMisc: Análisis Exploratorio de la Relación que se establece entre l
   y las Prácticas Cuestionables de Investigación'
 output:
   html_document: default
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
-Este proyecto está destinado a realizar un análisis exploratorio de las prácticas cuestionables de investigación en el ámbito de la investigación producida en países hispano hablantes. Todos los datos, brutos y procesados, de este proyecto están disponibles para que la comunidad científica pueda cotejarlos y reanalizarlos a conveniencia. La web de este proyecto se ubica en la siguiente dirección de la *Open Science Framework*: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) electrónic es el: 10.17605/OSF.IO/S2TGW
+Este proyecto está destinado a realizar un análisis exploratorio de las prácticas cuestionables de investigación en el ámbito de la investigación producida en países hispano hablantes. Todos los datos, brutos y procesados, de este proyecto están disponibles para que la comunidad científica pueda cotejarlos y reanalizarlos a conveniencia. La web de este proyecto se ubica en la siguiente dirección de la *Open Science Framework*: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) de este proyecto es el: [10.17605/OSF.IO/S2TGW](https://doi.org/10.17605/OSF.IO/S2TGW)
 
+La información que aparece en este documento puede consultarse tanto en formato PDF (<https://osf.io/v59dw>), en formato html (<https://osf.io/k78gf>), así como en formato .docx legigle por Microsoft Word (<https://osf.io/mxk42>).
 
-La información que aparece en este documento puede consultarse tanto en formato PDF (xxxxxxx), en formato html (xxxxxxx), así como en formato .docx legigle por Microsoft Word (xxxxxxxxxx).
+El mapa de variables para este archivo en formato PDF se encuentra aquí: <https://osf.io/hmzdu/> Este mapa de variables ha sido diseñado para que los datos que ponemos a disposición de la comunidad científica gocen de la calidad suficiente desde el punto de vista aplicado [(Musen, 2022)](https://doi.org/10.1038/d41586-022-02820-7). De esta manera, los análisis que hemos realizado podrán reproducirse, cotejarse o extenderse [(Berg, 2018)](https://doi.org/10.1126/science.aat8121).
 
+Este proyecto se compone de tres secciones principales: Carpetas, Archivos y Referencias. En la sección *Carpetas* se listan y describen las cuatro carpetas o directorios (dat, stx, tbl y fig) que integran el proyecto. En la sección *Archivos* se describen los archivos que están vinculados al proyecto. Los archivos del proyecto se agrupan en cuatro categorías diferentes. A saber, *archivos de datos* (que contienen datos brutos o procesados), *archivos de código* (que contienen en código fuente de R que ejecuta los análisis o que generan los gráficos del proyecto), *tablas* (que contienen tablas de resúmenes estadísticos) y *figuras* (que contienen los archivos de figuras generadas en el proyecto). Cada uno de los archivos mencionados están descritos.
 
-
-El mapa de variables se encuentra el la web <https://osf.io/hmzdu/> en formato PDF y en la web <https://osf.io/7jks9/> en formato html.
-
-
-El mapa de variables para este archivo se encuentra aquí: <https://osf.io/hmzdu/> Este mapa de variables ha sido diseñado para que los datos que ponemos a disposición de la comunidad científica gocen de la calidad suficiente desde el punto de vista aplicado [(Musen, 2022)](https://doi.org/10.1038/d41586-022-02820-7). De esta manera, los análisis que hemos realizado podrán reproducirse, cotejarse o extenderse [(Berg, 2018)](https://doi.org/10.1126/science.aat8121).
-
-
-El archivo de datos de este proyecto es *exp.csv*. En este archivo aparecen los datos brutos del proyecto. Se encuentra ubicado en la carpeta *dat*.
+El archivo de datos raíz de este proyecto es *exp.csv*. En este archivo aparecen los datos brutos del proyecto. Se encuentra ubicado en la carpeta *dat*.
 
 # *Carpetas*
 
