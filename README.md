@@ -7,7 +7,7 @@ output:
   word_document: default
 ---
 
-La web de este proyecto se ubica en la siguiente dirección de la Open Science Framework: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) electrónic es el: 10.17605/OSF.IO/S2TGW
+Este proyecto está destinado a realizar un análisis exploratorio de las prácticas cuestionables de investigación en el ámbito de la investigación producida en países hispano hablantes. Todos los datos, brutos y procesados, de este proyecto están disponibles para que la comunidad científica pueda cotejarlos y reanalizarlos a conveniencia. La web de este proyecto se ubica en la siguiente dirección de la *Open Science Framework*: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) electrónic es el: 10.17605/OSF.IO/S2TGW
 
 
 La información que aparece en este documento puede consultarse tanto en formato PDF (xxxxxxx), en formato html (xxxxxxx), así como en formato .docx legigle por Microsoft Word (xxxxxxxxxx).
