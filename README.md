@@ -55,6 +55,10 @@ Contiene la base de datos lista para ser procesada.
 
 Contiene los datos listos para ser procesados y analizados tras haber recodificado convenientemente las variables que incluye.
 
+#### coment.csv
+
+Contiene las respuestas a la pregunta de texto abierto en el que se solicita a los participantes que aporten cualquier comentario que consideren oportuno. Junto a cada comentario aparece el código de identificación del participante.
+
 ### Archivos de datos intermedios
 
 Estos son los archivos de datos intermedios que son generados a lo largo del proceso de análisis de datos. Estos archivos son invocados en fases intermedias del análisis de datos.
@@ -155,7 +159,7 @@ Las diez tablas anteriormente descritas también son almacenadas en un archivo d
 
 ### 08_perfil_pci.R
 
-Este archivo analiza las prácticas cuestionables de investigación (pci) teniendo en cuenta si los participantes las realizan, o no, y si las consideran, o no, como malas prácticas en la investigación científica. Para ello, se crean 27 nuevas variables (*pp1, pp2,...,pp28*)  que identifican cuatro perfiles diferentes de participantes (el archivo *dat_3.csv* intermedio que contiene estas nuevas variables es almacenado en la carpeta *dat*). Los cuatro perfiles, así como las etiquetas que los identifican, que se identifican para cada una de las prácticas cuestionables de investigación son los siguientes:
+Este archivo analiza las prácticas cuestionables de investigación (pci) teniendo en cuenta si los participantes las realizan, o no, y si las consideran, o no, como malas prácticas en la investigación científica. Lo que se hace, en cierto modo, es computar una serie de variables que posicionan a cada participante en un grupo de "perfil de integridad académica". Para ello, se crean 27 nuevas variables (*pp1, pp2,...,pp28*)  que identifican cuatro perfiles diferentes de participantes (el archivo *dat_3.csv* intermedio que contiene estas nuevas variables es almacenado en la carpeta *dat*). Los cuatro perfiles, así como las etiquetas que los identifican, que se identifican para cada una de las prácticas cuestionables de investigación son los siguientes:
 
 - BP: referido a "buenas prácticas de investigación", ya que el participante considera que la práctica correspondiente de investigación es cuestionable y no la lleva a cabo. 
 - PC: referido a "práctica cuestionable de investigación", ya que el participante considera que la práctica de investigación es cuestionable y la lleva a cabo.
@@ -191,7 +195,7 @@ Este archivo también genera dos tablas que contienen estadísticos de resúmene
 
 - inter.gnd: representa el coeficiente de intermediación de cada nodo de la red. 
 - grado.ponderado.gnd: representa el grado de cada nodo teniendo en cuenta que los enlaces de la red son ponderados. 
-ws.c: representa el coeficiente de conglomeración usando el método propuesto por [Watts y Strogatz, (1998)](https://doi.org/10.1038/30918).
+- ws.c: representa el coeficiente de conglomeración usando el método propuesto por [Watts y Strogatz, (1998)](https://doi.org/10.1038/30918).
 
 Por su parte, la tabla contenida en el archivo *cent.t.gda.csv* corresponde al grafo no dirigido acíclico y contiene las siguientes columnas:
 
@@ -201,6 +205,12 @@ Por su parte, la tabla contenida en el archivo *cent.t.gda.csv* corresponde al g
 - ws.c: coeficiente de conglomeración para cada nodo calculado usando el método propuesto por [Watts y Strogatz, (1998)](https://doi.org/10.1038/30918).
 
 Finalmente, este archivo también traza los dos grafos estimados finales (el no dirigido y el dirigido) en dos dispositivos gráficos de R.
+
+### 10_descriptivo.R
+
+Este archivo ejecuta un conjunto de análisis que son de apoyo para el desarrollo narrativo del manuscrito producido para reportar los resultados de la investigación. Aunque los análisis nucleares de la investigación han sido producidos con los archivos de código precedentes, este archivo está concebido para producir los análisis de datos que se irán presentando a lo largo del manuscrito. Por ejemplo, los análisis estadísticos que son necesarios para describir la muestra de participantes utilizada se ejecutan con el código contenido en este archivo.
+
+
 
 ## **Tablas**
 
@@ -304,6 +314,15 @@ Es el gráfico de caja de las prácticas cuestionables de investigación (PCI) e
 
 Gráfico de caja para la variable PCI (número de prácticas cuestionables de investigación) en función del tipo de institución.
 
+### box_pci_perfil.pdf
+
+Gráfico de caja para la variable PCI (número de prácticas cuestionables de investigación) en función del perfil del participante. El significado de las etiquetas es el siguiente:
+
+- ED: estudiante de doctorado
+- PI: personal investigador
+- PD: personal docente 
+- PDI : personal docente e investigador
+
 ### pci_edex.pdf
 
 Gráfico de dispersión de la relación que se establece entre el número de PCI (prácticas cuestionables de investigación) y los años de experiencia docente.
@@ -333,7 +352,17 @@ Grafo no dirigido conexo estimado en esta investigación. Los nodos etiquetados 
 
 Contiene el mismo grafo que el archivo *c.gda.pdf* pero trazado con función graphviz.plot() incluida en el paquete [Rgraphviz](https://www.bioconductor.org/packages/release/bioc/html/Rgraphviz.html).
 
+### gp.nc.gda.pdf
 
+Contiene el grafo no dirigido conexo trazado con la función graphviz.plot() incluida en el paquete [Rgraphviz](https://www.bioconductor.org/packages/release/bioc/html/Rgraphviz.html).
+
+### nc.gda.pdf
+
+Contiene el grafo dirigido acíclico no conexo.
+
+### nc.gda.pdf
+
+Contiene el grafo no dirigido no conexo.
 
 
 # Referencias

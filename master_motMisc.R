@@ -8,6 +8,10 @@ source("stx/01_clean.R")
 source("stx/02_recode.R", encoding = "UTF-8")
 # dat <- read.csv("dat/dat.csv", encoding = "UTF-8", stringsAsFactors = TRUE)
 
+# Base de datos de comentarios abiertos
+coment <- dat[,c(1,88)]; write.csv2(coment, file = "dat/coment.csv", row.names = F); rm(coment)
+# coment <- read.csv("dat/coment.csv", sep=";")
+
 # Calcula tablas de prevalencia de cada pci así como la relación que se 
 # establece entre el número total de pci y otras variables relevantes del 
 # estudio. Genera la matriz de correlaciones matcor.txt que estudia la relación
@@ -53,3 +57,10 @@ source("stx/08_perfil_pci.R")
 # tbl. Se recomienda consultar la sección correspondiente del archivo README.pdf 
 # para hacerse una idea más clara del comportamiento de este archivo.
 source("stx/09_grafos.R", encoding = "UTF-8")
+
+# Este archivo realiza una serie de análisis estadísticos que siguen el hilo 
+# conductor de la narración del artículo producido. Pese a que los análisis
+# nucleares de la investigación han sido ejecutados con el código presentado
+# en las líneas anteriores, este archivo y los archivos que se generan a partir
+# de él complementan el desarrollo ordenado del manuscrito producido.
+source("stx/10_descriptivo.R")
