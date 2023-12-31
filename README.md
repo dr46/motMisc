@@ -1,13 +1,13 @@
 ---
-title: 'motMisc: Análisis Exploratorio de la Relación que se establece entre las Motivaciones
-  y las Prácticas Cuestionables de Investigación'
+title: 'motMisc: Análisis Exploratorio de las Motivaciones
+  y las Prácticas Cuestionables de Investigación en la Comunidad Científica Hispanohablante'
 output:
   html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
 ---
 
-Este proyecto está destinado a realizar un análisis exploratorio de las prácticas cuestionables de investigación en el ámbito de la investigación producida en países hispano hablantes. Todos los datos, brutos y procesados, de este proyecto están disponibles para que la comunidad científica pueda cotejarlos y reanalizarlos a conveniencia. La web de este proyecto se ubica en la siguiente dirección de la *Open Science Framework*: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) de este proyecto es el: [10.17605/OSF.IO/S2TGW](https://doi.org/10.17605/OSF.IO/S2TGW)
+Este proyecto está destinado a realizar un análisis exploratorio de las prácticas cuestionables de investigación en el ámbito de la investigación producida en países hispanohablantes. Todos los datos, brutos y procesados, de este proyecto están disponibles para que la comunidad científica pueda cotejarlos y reanalizarlos a conveniencia. La web de este proyecto se ubica en la siguiente dirección de la *Open Science Framework*: <https://osf.io/s2tgw/> El Identificador Digital del Objeto (DOI) de este proyecto es el: [https://doi.org/10.17605/OSF.IO/S2TGW](https://doi.org/10.17605/OSF.IO/S2TGW)
 
 La información que aparece en este documento puede consultarse tanto en formato PDF (<https://osf.io/v59dw>), en formato html (<https://osf.io/k78gf>), así como en formato .docx legigle por Microsoft Word (<https://osf.io/mxk42>).
 
@@ -21,7 +21,7 @@ El archivo de datos raíz de este proyecto es *exp.csv*. En este archivo aparece
 
 ## dat
 
-Esta carpeta contiene el archivo de datos bruto (*exp.csv*) así como los archivos de datos intermendios que han sido utilizados para realizar los diferentes análisis de datos.
+Esta carpeta contiene el archivo de datos bruto (*exp.csv*) así como los archivos de datos intermedios que han sido utilizados para realizar los diferentes análisis de datos.
 
 ## stx
 
@@ -276,22 +276,29 @@ Contiene, para cada práctica cuestionable de investigación, las frecuencias ab
 
 ### cent.t.gda.csv
 
-Contiene los estadísticos de centralidad y de conglomeración para la red dirigida acíclica seleccionada en el estudio. En el archivo *09_frafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
+Contiene los estadísticos de centralidad y de conglomeración para la red dirigida acíclica seleccionada en el estudio. En el archivo *09_grafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
 
 
 ### cent.t.gnd.csv
 
-Contiene los estadísticos de centralidad y de conglomeración para la red no dirigida seleccionada en el estudio. En el archivo *09_frafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
+Contiene los estadísticos de centralidad y de conglomeración para la red no dirigida seleccionada en el estudio. En el archivo *09_grafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
 
 
 ### pesos.full.gda.txt
 
-Contiene las magnitudes de asociación que se establecen entre cada variable para el grafo dirigido acíclico no conexo estimado en una fase intermedia del análisis de datos. En el archivo *09_frafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
+Contiene las magnitudes de asociación que se establecen entre cada variable para el grafo dirigido acíclico no conexo estimado en una fase intermedia del análisis de datos. En el archivo *09_grafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
 
 ### pesos.conect.gda.txt
 
-Contiene las magnitudes de asociación que se establecen entre cada variable para el grafo dirigido acíclico conexo estimado en este estudio. En el archivo *09_frafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
+Contiene las magnitudes de asociación que se establecen entre cada variable para el grafo dirigido acíclico conexo estimado en este estudio. En el archivo *09_grafos.R* se proporciona información más detallada y contextualizada sobre este archivo.
 
+### pais.csv
+
+Contiene la distribución de frecuencias absoluta (fila "pais") y relativa (en forma de porcentajes, fila "pais.per") de los participantes atendiendo al país en el que trabajaban cuando se recogieron los datos del estudio.
+
+### descriptivo.txt
+
+Contiene los análisis de datos que acompalan la descripción del manuscrito.
 
 ## **Figuras**
 
@@ -363,6 +370,10 @@ Contiene el grafo dirigido acíclico no conexo.
 ### nc.gda.pdf
 
 Contiene el grafo no dirigido no conexo.
+
+### pais.pdf
+
+Este gráfico es la distribución de frecuencias de los participantes atendiendo al país en el que trabajaban en el momento de la recogida de datos.
 
 
 # Referencias

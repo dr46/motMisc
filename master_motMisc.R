@@ -63,4 +63,4 @@ source("stx/09_grafos.R", encoding = "UTF-8")
 # nucleares de la investigación han sido ejecutados con el código presentado
 # en las líneas anteriores, este archivo y los archivos que se generan a partir
 # de él complementan el desarrollo ordenado del manuscrito producido.
-source("stx/10_descriptivo.R")
+source("stx/10_descriptivo.R", encoding = "UTF-8", echo = T)

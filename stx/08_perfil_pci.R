@@ -3,7 +3,8 @@
 dat <- read.csv("dat/dat_2.csv", encoding = "UTF-8", stringsAsFactors = TRUE)
 
 
-# Generación de variables pp (perfiles de prácticas)
+# Generación de variables pp (perfiles de prácticas o "perfiles de integridad 
+# científica")
 
 attach(dat)
 
